@@ -1,2 +1,2 @@
-# Scala_Coursera
-Code for the Coursera Scala course
+# Scala Coursera
+Code for the Coursera Functional Programming Principles in Scala course
